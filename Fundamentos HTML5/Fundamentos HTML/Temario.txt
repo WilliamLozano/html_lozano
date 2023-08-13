@@ -1,0 +1,45 @@
+FUNDAMENTOS HTML 
+
+
+1.  - Creando mi primer documento HTML
+2.  - Emmet.io y Atajos de Visual Studio Code
+3.  - Introducción a HTML y su documentación
+4.  - Estructura básica de un documento HTML
+5.  - Comentarios en HTML
+6.  - Etiqueta html y el atributo lang
+7. - Etiqueta DOCTYPE
+8. - Atributo charset
+9. - Meta etiqueta viewport
+10. - Título y Descripciones
+11. - Tabla Periódica de los Elementos HTML
+12. - Encabezados
+13. - Etiquetas de texto básicas 
+14. - Etiquetas de texto semánticas 
+15. - Etiquetas de salto 
+16. - Etiquetas de formateo - 13 de agosto 2023 
+17. - Etiquetas semántica estructurales
+18. - Interpretando la semántica en HTML
+19. - Etiquetas de línea y de bloque
+20. - Estilos en HTML
+21. - Scripts en HTML
+22. - Imágenes
+23. - Vectores
+24. - Figuras
+25. - Listas Ordenadas
+26. - Listas Desordenadas
+27. - Listas de Definición
+28. - Tablas
+29. - Enlaces
+30. - Enlaces Internos
+31. - Enlaces y Protocolos especiales
+32. - Elementos Interactivos
+33. - Audio y Video
+34. - Iframes
+35. - Elementos de Formularios
+36. - Atributos de Inputs y Formularios
+37. - Selects, Radios y Checkboxs
+38. - Formulario de Contacto
+39. - DataAtributtes
+40. - Metaetiquetas para SEO y Móviles
+41. - Meta etiquetas para Redes Sociales
+42. - Accesibilidad Web
