@@ -28,7 +28,7 @@ FUNDAMENTOS HTML
 25. - Listas Ordenadas
 26. - Listas Desordenadas
 27. - Listas de Definición
-28. - Tablas
+28. - Tablas - 13 de agosto 2023
 29. - Enlaces
 30. - Enlaces Internos
 31. - Enlaces y Protocolos especiales
