@@ -32,7 +32,7 @@ FUNDAMENTOS HTML
 29. - Enlaces
 30. - Enlaces Internos
 31. - Enlaces y Protocolos especiales
-32. - Elementos Interactivos
+32. - Elementos Interactivos 14 de agosto 2023 : 1:42:59
 33. - Audio y Video
 34. - Iframes
 35. - Elementos de Formularios
