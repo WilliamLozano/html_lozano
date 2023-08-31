@@ -1,0 +1,92 @@
+/* Comentarios en CSS
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia deleniti doloremque cupiditate minus
+reprehenderit itaque vero voluptatum aliquid sit, laudantium fugiat pariatur molestiae non quas odit 
+repellat voluptatem? Facere, in! 
+ */
+
+ /* Los comentarios se aplican con  */
+
+/* Regla CSS consta de 2 partes: 
+
+1- El selector
+2- Bloque de declaraciones:{ 
+    atributo: valor;
+    atributo-de-mas-dos-palabras: otro-guion-valor;
+
+    .p1{
+        color: rgb(181, 112, 88);
+        background-color: rgb(42, 122, 154);
+    } 
+
+    } */
+
+@import url("Otra\ hoja.css");
+
+h1{
+    color: orangered;
+    background-color: black ;
+}
+
+.titulo{
+    text-align: center;
+}
+
+
+/* Selectores Básicos  
+1- Etiquetas : Son elementos HTML
+2- Identificadores : Atributo ID - # (lleva un hash)
+3- Clases : Atributo class - . (lleva un punto)
+*/
+
+/* Temario */
+
+.temario-css{
+    text-align: center;
+}
+
+.lista-temario{
+    text-align: center;
+    list-style: none;
+}
+
+.boton {
+    background-color: rgb(28, 188, 86);
+}
+
+/*Fin temario */
+
+
+
+/* Selectores Básicos: Etiquetas, Identificadores y Clases */
+
+.bg-skyblue{
+    background-color: skyblue;
+}
+
+.bg-steelblue{
+    background-color: steelblue;
+}
+
+p{
+    color: midnightblue;
+} 
+
+
+#parrafo-dos {
+    background-color: skyblue; /* Dar estilos con ID se considera un Antipatron o mala practica */
+}
+
+
+.text-20{  
+    font-size: 20px;  /*Dar estilos con clases nos permite reutilizar nuestro código CSS */
+}
+
+.text-32{
+    font-size: 32px;
+}
+
+
+.text-white {
+    color: white;
+}
